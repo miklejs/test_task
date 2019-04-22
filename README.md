@@ -1,1 +1,5 @@
-Ro run write in console: npm start
+Ro run write in console: 
+
+1) npm install
+
+2) npm start
