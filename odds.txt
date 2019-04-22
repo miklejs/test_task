@@ -1,0 +1,752 @@
+[
+  [
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "CZECH REPUBLIC U21 LEAGUE (PLAY OFF)",
+      "home_team": "Hradec Kralove U21",
+      "away_team": "Sparta Praha U21",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "0",
+      "score_a": "1",
+      "date": "H.Time",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": 0.25,
+            "odd": "1.73"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -0.25,
+            "odd": "2.12"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": "0",
+            "odd": "2.12"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0",
+            "odd": "1.73"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.89"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "1.93"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": "3.0",
+            "odd": "2.21"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "3.0",
+            "odd": "1.64"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "7.20"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "1.39"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "3.80"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "CZECH REPUBLIC U21 LEAGUE (PLAY OFF)",
+      "home_team": "Slavia Praha U21",
+      "away_team": "Dynamo Ceske Budejovice U21",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "3",
+      "score_a": "0",
+      "date": "H.Time",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.25,
+            "odd": "1.96"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": 0.25,
+            "odd": "1.88"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.5,
+            "odd": "1.73"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0.5",
+            "odd": "2.12"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.93"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "1.89"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": "5.0",
+            "odd": "1.62"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "5.0",
+            "odd": "2.25"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "MONTAIGU TOURNAMENT U16 (IN FRANCE)",
+      "home_team": "France U16",
+      "away_team": "Ivory Coast U16",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "4",
+      "score_a": "0",
+      "date": "2H 36",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.25,
+            "odd": "1.80"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": 0.25,
+            "odd": "1.96"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.5,
+            "odd": "2.44"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0.5",
+            "odd": "1.45"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": "4.5",
+            "odd": "2.07"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "4.5",
+            "odd": "1.69"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "2.66"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "1.36"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "AUSTRIA REGIONAL LEAGUE WEST",
+      "home_team": "FC Dornbirn",
+      "away_team": "FC Langenegg",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "1",
+      "score_a": "0",
+      "date": "2H 3",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": -1,
+            "odd": "1.91"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "1.0",
+            "odd": "1.89"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.25,
+            "odd": "1.60"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": 0.25,
+            "odd": "2.25"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": "3.0",
+            "odd": "1.96"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "3.0",
+            "odd": "1.84"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.63"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "2.20"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "1.11"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "22.00"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "5.80"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "TURKEY FIRST LEAGUE U21",
+      "home_team": "Balikesirspor U21",
+      "away_team": "Kardemir Karabukspor U21",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "0",
+      "score_a": "0",
+      "date": "",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.25,
+            "odd": "2.08"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": 0.25,
+            "odd": "1.72"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.94"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "1.84"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "RUSSIA 2ND DIVISION",
+      "home_team": "Ural Sverdlovsk Oblast 2",
+      "away_team": "Nosta Novotroitsk",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "1",
+      "score_a": "1",
+      "date": "H.Time",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": "0.5",
+            "odd": "1.58"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -0.5,
+            "odd": "2.28"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": 0.25,
+            "odd": "1.81"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -0.25,
+            "odd": "1.99"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.67"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "2.14"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": "3.5",
+            "odd": "1.95"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "3.5",
+            "odd": "1.85"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "3.25"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "2.28"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "2.69"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "BANGLADESH CHAMPIONSHIP LEAGUE",
+      "home_team": "Agrani Bank Ltd SC",
+      "away_team": "Farashganj SC",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "0",
+      "score_a": "0",
+      "date": "1H 12",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": 0.25,
+            "odd": "1.49"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -0.25,
+            "odd": "2.26"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": "0",
+            "odd": "1.94"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0",
+            "odd": "1.76"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": "1.0",
+            "odd": "1.64"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "1.0",
+            "odd": "2.06"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.91"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "1.79"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "2.98"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "2.70"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "2.25"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "MYANMAR NATIONAL LEAGUE",
+      "home_team": "Sagaing United FC",
+      "away_team": "Ayeyawady United",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "1",
+      "score_a": "1",
+      "date": "1H 30",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.25,
+            "odd": "1.26"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": 0.25,
+            "odd": "2.78"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.5,
+            "odd": "1.58"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0.5",
+            "odd": "2.13"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.66"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "2.04"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": "4.0",
+            "odd": "1.96"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "4.0",
+            "odd": "1.74"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "MYANMAR NATIONAL LEAGUE",
+      "home_team": "Dagon FC (N)",
+      "away_team": "Southern Myanmar FC",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "1",
+      "score_a": "0",
+      "date": "1H 32",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": "0",
+            "odd": "1.41"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0",
+            "odd": "2.40"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": -0.25,
+            "odd": "1.61"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": 0.25,
+            "odd": "2.09"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": "2.5",
+            "odd": "1.64"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "2.5",
+            "odd": "2.06"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.80"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "1.90"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "1.24"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "9.60"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "4.35"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "SPAIN WOMEN SUPERLIGA",
+      "home_team": "RCD Espanyol (W)",
+      "away_team": "Atletico de Madrid (W)",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "0",
+      "score_a": "1",
+      "date": "H.Time",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": "1.0",
+            "odd": "1.99"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -1,
+            "odd": "1.85"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": 0.25,
+            "odd": "2.38"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -0.25,
+            "odd": "1.56"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.80"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "2.02"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": "3.0",
+            "odd": "2.14"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "3.0",
+            "odd": "1.69"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "30.00"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "1.09"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "5.90"
+          }
+        ],
+        []
+      ]
+    },
+    {
+      "sport": "Soccer",
+      "isLive": "Live",
+      "league": "AUSTRIA WOMEN BUNDESLIGA",
+      "home_team": "FC Sudburgenland (W)",
+      "away_team": "Wacker Innsbruck (W)",
+      "red_card_h": 0,
+      "red_card_a": 0,
+      "score_h": "0",
+      "score_a": "1",
+      "date": "H.Time",
+      "mainlineBets": [
+        [
+          {
+            "type": "FT_HDP_h",
+            "opt": 0.25,
+            "odd": "1.90"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": -0.25,
+            "odd": "1.94"
+          },
+          {
+            "type": "FT_HDP_h",
+            "opt": "0",
+            "odd": "2.40"
+          },
+          {
+            "type": "FT_HDP_a",
+            "opt": "0",
+            "odd": "1.55"
+          }
+        ],
+        [
+          {
+            "type": "FT_OU_o",
+            "opt": 0.25,
+            "odd": "1.81"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": 0.25,
+            "odd": "2.01"
+          },
+          {
+            "type": "FT_OU_o",
+            "opt": "3.0",
+            "odd": "2.25"
+          },
+          {
+            "type": "FT_OU_a",
+            "opt": "3.0",
+            "odd": "1.62"
+          }
+        ],
+        [
+          {
+            "type": "FT_1X2_h",
+            "opt": "-",
+            "odd": "9.60"
+          },
+          {
+            "type": "FT_1X2_a",
+            "opt": "-",
+            "odd": "1.33"
+          },
+          {
+            "type": "FT_1X2_d",
+            "opt": "-",
+            "odd": "3.80"
+          }
+        ],
+        []
+      ]
+    }
+  ]
+]

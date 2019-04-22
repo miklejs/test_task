@@ -1,0 +1,17 @@
+{
+  "name": "uptechio_test_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "log4js": "^4.1.0",
+    "nodemon": "^1.18.11",
+    "puppeteer": "^1.14.0"
+  }
+}
